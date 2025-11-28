@@ -1,0 +1,41 @@
+{
+  "page": 2,
+  "has_more": true,
+  "items": [
+    {
+      "id": "g026",
+      "name": "Gurdwara Sri Takht Damdama Sahib",
+      "location": "Bathinda, Punjab",
+      "thumbnail": "https://yourcdn.com/g026.jpg",
+      "detail_url": "https://raw.githubusercontent.com/singhcreations/datagwsw/main/gurdwaras/details/g026.json"
+    },
+    {
+      "id": "g027",
+      "name": "Gurdwara Sri Hatt Sahib",
+      "location": "Mandi, Himachal Pradesh",
+      "thumbnail": "https://yourcdn.com/g027.jpg",
+      "detail_url": "https://raw.githubusercontent.com/singhcreations/datagwsw/main/gurdwaras/details/g027.json"
+    },
+    {
+      "id": "g028",
+      "name": "Gurdwara Sri Meetha Reetha Sahib",
+      "location": "Uttarakhand",
+      "thumbnail": "https://yourcdn.com/g028.jpg",
+      "detail_url": "https://raw.githubusercontent.com/singhcreations/datagwsw/main/gurdwaras/details/g028.json"
+    },
+    {
+      "id": "g029",
+      "name": "Gurdwara Sri Patalpuri Sahib",
+      "location": "Kiratpur Sahib, Punjab",
+      "thumbnail": "https://yourcdn.com/g029.jpg",
+      "detail_url": "https://raw.githubusercontent.com/singhcreations/datagwsw/main/gurdwaras/details/g029.json"
+    },
+    {
+      "id": "g030",
+      "name": "Gurdwara Sri Cheharta Sahib",
+      "location": "Amritsar, Punjab",
+      "thumbnail": "https://yourcdn.com/g030.jpg",
+      "detail_url": "https://raw.githubusercontent.com/singhcreations/datagwsw/main/gurdwaras/details/g030.json"
+    }
+  ]
+}
